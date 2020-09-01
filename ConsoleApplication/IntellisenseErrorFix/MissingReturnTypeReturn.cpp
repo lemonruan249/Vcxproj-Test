@@ -1,0 +1,4 @@
+MissingReturnTypeReturnFunction()
+{
+	return 1;
+}
